@@ -1,0 +1,17 @@
+If you are having problems running this app
+
+You need to register dvdnav.ocx
+To do this put dvdnav.ocx into your c:\windows\system directory
+
+Then get my app reg it on planet source to register the ocx
+
+Now you may have to go into your Project menu and click components to add my nav control.
+
+Then place it on the form named ShapedForm over the black horizontal line near the bottom
+
+It should work now.
+
+
+DVD player, more features than any other I have seen on the planet to date and looks much better, this is a very good example of playing DVD's with VB, it started as an app to be published as shareware, but I got bored. So it is now open source. It is in no way finished but is fully functional.
+
+JP
